@@ -64,7 +64,3 @@ def get_tiktok_hashtags(entity):
     
     return hashtags
 
-
-entity = "#ball"
-a = get_tiktok_hashtags(entity)
-print(a)
